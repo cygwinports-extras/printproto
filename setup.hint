@@ -1,3 +1,4 @@
 category: X11
+requires: libX11-devel libXau-devel fontsproto xproto
 sdesc: "X.Org XPrint protocol headers"
 ldesc: "X.Org XPrint protocol headers"
